@@ -3,4 +3,6 @@ pandas
 Flask
 Pillow
 gunicorn == 20.0.4
-pip3 install torch torchvision torchaudio
+torch 
+torchvision 
+torchaudio
